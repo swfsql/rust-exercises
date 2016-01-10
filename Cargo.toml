@@ -1,0 +1,6 @@
+[package]
+name = "euler"
+version = "0.1.0"
+authors = ["Thiago Machado <swfsql@gmail.com>"]
+
+[dependencies]
